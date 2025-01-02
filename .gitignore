@@ -1,0 +1,27 @@
+# Ignore virtual environment files
+venv/
+env/
+Include/
+Lib/
+Scripts/
+
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore other files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+requirements.txt
+
+# Ignore FastAPI files
+fastapi/
+uvicorn/
