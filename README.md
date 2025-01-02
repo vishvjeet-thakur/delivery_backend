@@ -1,4 +1,4 @@
 FastApi and Sql model is used 
-[Swagger UI Documentation](https://e20d-2409-40d0-103d-6c16-fdc0-f4c4-d0f6-2781.ngrok-free.app/docs)
+[Swagger UI Documentation](https://app.swaggerhub.com/apis-docs/VISHWJEETTHAKUR995/delivery-management_api/1.0.0)
 
 
